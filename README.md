@@ -1,3 +1,16 @@
+# API display ex1
+
+this project fetches an API containing a list of albums; 
+
+each album has an amount of pictures, and part of the pictures are displayed below the album list with its title;
+
+when the user clicks the album title, below the list its displayed its pictures;
+
+useState and useEffect hooks are used;
+
+map and slice functions were also implemented;
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

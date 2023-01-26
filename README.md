@@ -4,7 +4,7 @@ this project fetches an API containing a list of albums;
 
 each album has an amount of pictures, and part of the pictures are displayed below the album list with its title;
 
-when the user clicks the album title, below the list its displayed its pictures;
+when the user clicks the album title, the pictures are displayed below the list;
 
 useState and useEffect hooks are used;
 
